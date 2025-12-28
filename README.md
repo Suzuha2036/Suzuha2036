@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hello everyone, I'm Ken 👋
+IT Student | Software Developer  
+Focused on Web Development and IoT Systems
 
-<!--
-**Suzuha2036/Suzuha2036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning 
+- MERN stack (MongoDB, Express, React, Node.js)  
+- Backend fundamentals and database design  
+- Data Structures and Algorithms (DSA)  
+- Software development using Agile methodologies  
+- Design patterns and best practices  
+- IoT development using Arduino, ESP32, and Raspberry Pi  
+- Machine learning for image-based monitoring
