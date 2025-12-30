@@ -1,5 +1,5 @@
 ## Hello everyone, I'm Ken 👋
-IT Student | Software Developer  
+  IT Student | Web Developer  
 Focused on Web Development and IoT Systems
 
 🌱 I’m currently learning 
